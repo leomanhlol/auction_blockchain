@@ -1,7 +1,7 @@
 # auction_blockchain
-<p>Open project in VS Code</p>
-<p>cd to client folder</p>
-<p>run command: npm install</p>
-<p>download and install Ganache, open ganache</p>
-<p>connect metamask with Ganache</p>
-<p>After packages are installed, run command: npm start</p>
+<p>1. Open project in VS Code</p>
+<p>2. cd to client folder</p>
+<p>3. run command: npm install</p>
+<p>4. download and install Ganache, open ganache</p>
+<p>5. connect metamask with Ganache</p>
+<p>6. After packages are installed, run command: npm start</p>
