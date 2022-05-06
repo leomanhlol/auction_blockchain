@@ -5,3 +5,4 @@
 <p>4. download and install Ganache, open ganache</p>
 <p>5. connect metamask with Ganache</p>
 <p>6. After packages are installed, run command: npm start</p>
+<img src="https://ibb.co/YPwjgp8"></img>
